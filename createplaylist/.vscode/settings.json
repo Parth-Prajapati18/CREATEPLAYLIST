@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/10b7f669-9284-4535-96e8-5bd911cfecce/resourceGroups/app-playlist/providers/Microsoft.Web/sites/playlist",
+    "appService.deploySubpath": "."
+}
